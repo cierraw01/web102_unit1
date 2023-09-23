@@ -37,7 +37,7 @@ GIF created with [GIPHY Capture](https://giphy.com/apps/giphycapture)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was a bit difficult making it responsive for desektop and mobile, but I eventually figured out I need to use Flexbox.
 
 ## License
 
